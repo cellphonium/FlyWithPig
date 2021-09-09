@@ -1,0 +1,6 @@
+main: req.cellcrafty.FlyWithPig
+name: FlyWithPig
+version: 1.0.0
+description: Fly With Pig
+author: cellcrafty
+api-version: 1.17
